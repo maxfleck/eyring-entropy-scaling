@@ -1,0 +1,15 @@
+[project]
+name = "eyring-entropy"
+version = "0.1.0"
+description = "Eyring Entropy Model for Viscosity Prediction"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.24.0",
+    "pandas>=2.0.0",
+    "scipy>=1.10.0",
+    "matplotlib>=3.7.0",
+    "openpyxl>=3.1.0",
+    "feos>=0.4.3",
+    "jupyterlab>=4.0.0",
+    "si-units>=0.11.0",
+]
