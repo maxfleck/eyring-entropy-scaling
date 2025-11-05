@@ -23,6 +23,8 @@ significant predictive power for viscosity across a wide range of thermodynamic 
 species, including associating liquids. Moreover, parameters are transferable to other properties, such
 as self-diffusion
 
+Fleck M, Spera M. Eyring’s Rate Theory and Its Connection to Entropy Scaling: Viscosity and Self-Diffusion of Hydrocarbons, Alcohols, and Water. ChemRxiv. 2025; doi:10.26434/chemrxiv-2025-nbhbq This content is a preprint and has not been peer-reviewed.
+
 
 ### Quickstart:
 
